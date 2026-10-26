@@ -45,6 +45,3 @@ Notebook-urile necesită acces la EPO TIP și PATSTAT. Încărcarea lor în GitH
 
 Exportul bibliografic a fost validat pe eșantionul de 10 înregistrări COMPANY, nu pe întreaga selecție.
 
-Datele nu includ CUI, documentele integrale ale brevetelor sau dovada titularului actual. O cerere de brevet nu confirmă automat acordarea brevetului ori exploatarea comercială.
-
-Repository-ul păstrează codul. Fișierele cu date extrase și credențialele se păstrează separat.
